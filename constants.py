@@ -1,0 +1,11 @@
+#!/usr/bin/python
+#constants module
+
+PIPELINE1_STAGES = 5
+PIPELINE2_STAGES = 5
+ROB_CAPACITY = 16
+ISSUE_Q = 2
+LOAD_STORE_Q = 2
+INT_STAGE = 0
+MUL_STAGE = 1
+MEM_STAGE = 2
