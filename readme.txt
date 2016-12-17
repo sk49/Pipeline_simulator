@@ -1,4 +1,4 @@
-email: sreebing@gmail.com Name: Sreedhar Kumar
+email: sreebing@gmail.com
      
 
 Instructions to run the program
